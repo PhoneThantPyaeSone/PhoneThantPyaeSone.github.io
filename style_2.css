@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    background-image: url(KaungSone.png.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+h1{
+    color: white;
+}
